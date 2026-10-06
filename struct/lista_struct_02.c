@@ -1,10 +1,3 @@
-/******************************************************************************
-
-2. Implemente um programa que leia o nome, a idade e o endereço de uma pessoa e
-armazene os dados em uma estrutura. Envie esta estrutura para uma função de deverá
-realizar a impressão dos dados da estrutura na tela.
-
-*******************************************************************************/
 #include <stdio.h>
 
 struct Pessoa {
